@@ -6,8 +6,7 @@ gsap.from(".course-col",{
         scroller : "body",
         // markers : true,  // Use to show start and end point 
         start : "top 70%", // use to adjust start point   
-        end : "top 30%",  
-        scrub : 3 // It can also be a value between 1 to 5 on the basis of smoothness
+        end : "top 30%",
     }
 })
 gsap.from(".text-box" , {
